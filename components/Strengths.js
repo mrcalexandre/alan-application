@@ -3,7 +3,7 @@ import Strength from './Strength';
 export default function Strengths({ strengths }) {
   return (
     <div className='py-12'>
-      <div className='px-8 max-w-7xl sm:px-10 lg:px-10'>
+      <div className='px-2 max-w-7xl sm:px-10 lg:px-10'>
         <Bio />
         <h1 className='mx-10 text-xl font-bold tracking-wide'>My Strengths?</h1>
         <div className='mt-10'>

@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <div>
-      <div className='px-10 py-12 mx-10 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between'>
+      <div className='px-2 py-12 mx-10 sm:px-2 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between'>
         <h2 className='text-5xl font-extrabold tracking-tight text-alan-darkergrey lg:text-5xl sm:text-xl'>
           I like to share{'  '}
           <span className='text-alan-green'>what I build</span>

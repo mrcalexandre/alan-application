@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function SocialMedia() {
   return (
     <section>
-      <div className='px-10 py-12 mx-10 sm:px-8 lg:py-16 lg:px-10 lg:flex lg:items-center lg:justify-between'>
+      <div className='px-2 py-12 mx-10 sm:px-8 lg:py-16 lg:px-10 lg:flex lg:items-center lg:justify-between'>
         <h2 className='text-5xl font-extrabold tracking-tight text-alan-darkergrey lg:text-5xl sm:text-xl'>
           Where the <span className='text-alan-green'>magic happens</span>
         </h2>
