@@ -13,8 +13,9 @@ export default function Bio() {
       </p>
       <p className='max-w-5xl mt-4 text-lg text-alan-darkergrey lg:mx-auto'>
         Hi! I am Alexandre Mouriec, a Full Stack Developer and recent Computer
-        Science graduate in France. I am applying to join Alan as a Software
-        Engineer to use my full-stack development skills to help Alan grow.
+        Science graduate in France, specialized in Web Development. I am
+        applying to join Alan as a Software Engineer to use my full-stack
+        development skills to help Alan grow.
       </p>
       <p className='max-w-5xl mt-4 text-lg text-alan-darkergrey lg:mx-auto'>
         While I was working at APITIC for one year, I gained experience in

@@ -9,7 +9,7 @@ export default function SocialMedia() {
         </h2>
       </div>
       <h1 className='mx-10 mt-2 text-lg font-medium text-left text-alan-darkergrey'>
-        I am currently based in Brittany but I am planning on moving
+        I am currently based in Brittany but I am planning on moving.
       </h1>
 
       <div className='container px-5 py-12 mx-auto'>
