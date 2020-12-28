@@ -2,7 +2,7 @@ export default function Cta() {
   return (
     <div>
       <img
-        class='lg:w-24 md:w-24 w-24 mb-10 mx-auto object-center rounded-full'
+        className='object-center w-24 mx-auto mb-10 rounded-full lg:w-24 md:w-24'
         alt='hero'
         src='/alexandre.png'
       />
