@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 export default function Footer() {
+   var date = "© " + new Date().getFullYear() + " - Alexandre Mouriec"
   return (
     <footer className='flex flex-col items-center justify-between px-6 py-4 bg-white dark:bg-gray-800 sm:flex-row'>
       <Link href='https://alexandremouriec.com'>
@@ -9,7 +10,7 @@ export default function Footer() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          © 2020 - Alexandre Mouriec
+    {date}
         </a>
       </Link>
       <p className='py-2 text-sm font-bold text-alan-darkergrey dark:text-white sm:py-0'>
